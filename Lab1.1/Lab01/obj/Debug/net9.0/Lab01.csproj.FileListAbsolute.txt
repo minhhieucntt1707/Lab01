@@ -1,0 +1,4 @@
+D:\THIET KE LAP TRINH BACK END\BaiTap\lab\lab1.1\obj\Debug\net9.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIET KE LAP TRINH BACK END\BaiTap\lab\lab1.1\obj\Debug\net9.0\Lab01.AssemblyInfoInputs.cache
+D:\THIET KE LAP TRINH BACK END\BaiTap\lab\lab1.1\obj\Debug\net9.0\Lab01.AssemblyInfo.cs
+D:\THIET KE LAP TRINH BACK END\BaiTap\lab\lab1.1\obj\Debug\net9.0\Lab01.csproj.CoreCompileInputs.cache
